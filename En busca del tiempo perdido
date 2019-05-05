@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina19</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>En busca del tiempo perdido</h1>
+  <p>Marcel Proust</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/proust.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Los siete volúmenes que componen En busca del tiempo perdido son:
+
+Por el camino de Swann. Proust nos introduce en la vida del narrador, su niñez y sus visitas al campo en verano, que perdurarán en su memoria. A continuación se centra en la vida de Charles Swann, un amigo de sus padres, que se enfrentará a su círculo social al enamorarse de una mujer de un estrato inferior, así como su lucha para conquistarla y mantener la relación.
+
+
+A la sombra de las muchachas en flor. En este volumen se narra la adolescencia del protagonista y su corta relación y noviazgo con Gilberte, la hija de Swann. También se centra en el encuentro inicial de aquel con Robert de Saint-Loup y con el barón de Charlus, personajes que cobran importancia en las siguientes partes de la novela.
+
+El mundo de Guermantes. Los Guermantes son una familia aristocrática y muy distinguida, de cuyo círculo el protagonista quiere formar parte. No obstante, al principio es rechazado, hasta que finalmente es invitado a una fiesta formal.
+
+Sodoma y Gomorra. Diversos episodios de relaciones homosexuales del barón de Charlus, y lésbicas de algunas mujeres del círculo del narrador, parecen ser la razón del título de esta cuarta parte de En busca del tiempo perdido.
+
+La prisionera. El tema principal de este volumen de En busca del tiempo perdido es la relación del narrador con Albertine, a quien acaba de desposar, y sus enfermizas sospechas de infidelidad. Aquel controla todos los movimientos de su pareja, hasta que esta lo abandona.
+
+La fugitiva. Describe los esfuerzos del narrador por recuperar a Albertine, quien fallece luego en un accidente. Después descubre las relaciones lésbicas de ésta, incluso con Andreé, con quien el protagonista pensaba casarse. Se reencuentra con Gilberte, que ha decidido casarse con Robert de Saint-Loup, el mejor amigo del narrador.
+
+El tiempo recobrado. En esta última parte de En busca del tiempo perdido, Marcel Proust trasporta al lector hacia muchos años después, cuando el tiempo ha hecho mella en todos los personajes y el narrador descubre la razón por la que debe escribir lo que ha vivido y visto: la necesidad de unir el presente y el pasado a través de un relato coherente.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
