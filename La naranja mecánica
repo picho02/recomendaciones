@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina17</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>La naranja mecánica</h1>
+  <p>Anthony Burgess</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/naranja.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>La naranja mecánica cuenta la historia del nadsat-adolescente Alex y sus tres drugos-amigos en un mundo de crueldad y destrucción. Alex tiene los principales atributos humanos: amor a la agresión, amor al lenguaje, amor a la belleza. Pero es joven y no ha entendido aún la verdadera importancia de la libertad, la que disfruta de un modo violento. En cierto sentido vive en el Edén, y sólo cuando cae (como en verdad le ocurre, desde una ventana) parece capaz de llegar a transformarse en un verdadero ser humano.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
