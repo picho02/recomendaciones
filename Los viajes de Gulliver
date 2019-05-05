@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina13</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Los viajes de Gulliver</h1>
+  <p>Jonathan Swift</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/gulliver.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Los viajes de Gulliver es un relato de aventuras que a su vez es una feroz sátiracontra el género humano, una reflexión filosófica sobre la constitución de nuestras sociedades. Muchos asocian a Gulliver tan solo con su primera parte, la que se desarrolla entre los minúsculos liliputienses, pero, más tarde, el protagonista de esta obra va aparar a un reino donde él es tan pequeño como los de Lilliput eran para él. Y el tercer viaje lleva a Gulliver a una isla volante, con una minoría rectora siempre absorta en elucubraciones filosóficas. Antes de regresar, Gulliver acudirá a un lugar donde se le aparecen las grandes figuras de la humanidad y donde algunos nunca mueren, envejeciendo horriblemente.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
