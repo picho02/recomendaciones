@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina4</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>El extranjero</h1>
+  <p>Albert Camus</p> 
+</div>
+  
+<div class="container">
+  <center><img src="http://resumiendolo.com/wp-content/uploads/2018/02/El-extranjero-1.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Albert Camus (1913-1960) no sólo fue uno de los escritores más prestigiosos de la generación que llegó a la madurez entre las ruinas, la frustración y la desesperanza de la Europa demolida por las dos Guerras Mundiales, sino que el paso del tiempo agiganta cada vez más su figura excepcional y el valor de su obra. El extranjero, novela con cuya publicación saltó a la fama en 1942, tiene como referencia omnipresente a Meursault, su protagonista, a quien una serie de circunstancias conduce a cometer un crimen aparentemente inmotivado. El desenlace de su proceso judicial no tendrá más sentido que su vida, corroída por la cotidianidad y gobernada por fuerzas anónimas que, al despojar a los hombres de la condición de sujetos autónomos, los eximen también de responsabilidad y de culpa.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
