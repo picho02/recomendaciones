@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina11</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Grandes esperanzas</h1>
+  <p>Charles Dickens</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/esperanzas.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Kent, Inglaterra, finales del siglo XIX. El huérfano Pip vive una existencia humilde con su hermana y su cuñado, a quien ayuda en su taller de herrería. Cuando la rica Miss Havisham requiere a Pip como acompañante de ella y de su bella hija, el joven se dará cuenta de las penurias de su clase social y deseará cada vez con más fuerza subir posiciones en el escalafón social. Pip recibirá entonces la visita de un abogado de Londres, quien le informará que un benefactor anónimo le quiere convertir en un caballero. Sin embargo, Pip descubrirá que el valor de la amistad y de la moral no se puede comprar con dinero. 
+	 </p>
+  </div>
+</div>
+</body>
+</html>
