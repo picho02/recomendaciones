@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina16</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Moby Dick</h1>
+  <p>Herman Melville</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/moby.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Moby Dick es una historia de odio. Fundamentalmente odio y cólera. Un odio frío que impulsa a mover todos los hilos del argumento. El capitán Achab con su sola presencia es capaz de arrastrar con su odio a toda una tripulación hacia un terrible final. El odio estará presente en todas y cada una de las páginas del relato. Un odio amargo con sabor a hiel. Moby Dick no es una historia sobre la ballena, es la historia de Achab, el viejo y resentido Capitán Achab, y la búsqueda de un objetivo en la vida...
+	 </p>
+  </div>
+</div>
+</body>
+</html>
