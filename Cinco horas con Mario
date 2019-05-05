@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina14</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Cinco horas con Mario</h1>
+  <p>Miguel Delibes</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/mario.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Una mujer acaba de perder a su marido y vela el cadáver durante la noche. Sobre la mesilla hay un libro –la Biblia– que la esposa hojea. Va leyendo los párrafos subrayados por el hombre que se ha ido para siempre. Una oleada de recuerdos le viene a la mente y empieza un lento, desordenado monólogo en el que la vida pugna por hacerse real otra vez. La pobre vida llena de errores y torpezas, de pequeños goces e incomprensiones. ¿Ha conocido Carmen alguna vez a Mario? Escuchemos el irritante discurrir de la pequeña y estrecha mentalidad de la esposa. Otro hombre irá poco a poco descubriéndose, para todos menos para ella, con toda su desesperanza y su fe en la vida. Cinco horas con Mario es una novela de gran penetración psicológica que, a través de un alma femenina puesta al descubierto, llega hasta el fondo de la sociedad española de su tiempo. Sólo un escritor de la categoría de Miguel Delibes podía enfrentarse con este difícil tema y resolverlo tan brillantemente.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
