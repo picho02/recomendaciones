@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina12</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Frankenstein</h1>
+  <p>Mary Shelley</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/frankenstein.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>La historia comienza con el capitán Robert Walton pasando el rato en San Petersburgo, Rusia, quizá por ahí a finales del siglo XXVIII. Está esperando un aventón al puerto de Arcangel, donde quiere contratar a algunos rusos para zarpar al Polo Norte. Por desgracia, el barco se queda atascado en hielo intransitable a cientos de kilómetros de tierra firme. ¡Qué aburrimiento! Sin nada que hacer, escribe cartas a su hermana en Inglaterra. ¿Cuál es su queja principal? Quiere un amigo que le haga compañía. (¿Y todos los marineros del barco? No, quiere un compañero digno).
+
+Al poco tiempo, la desesperación de Walton es interrumpida por el avistamiento de... ¡un hombre! ¡En el hielo! ¡En un trineo tirado por perros! El hombre sube al barco y parece que el deseo de Walton de terer un amigo se ha vuelto realidad. Salvo que este hombre, Victor, parece que se llama, está un poco chiflado. Ésta es su historia, tal como se la cuenta a Walton:
+
+Victor comenzó siendo un chico normal en Ginebra, y sus padres adoptaron a una niña llamada Elizabeth para que se casara con ella al crecer. Lo típico, muy normal todo. En la universidad decide estudiar filosofía de la naturaleza (algo así como física rudimentaria) y química, además de alquimia, el malvado doble de la química. En cosa de dos años descubre cómo darle vida a un cuerpo humano construido de partes de cadáveres. (Nosotros ni siquiera pudimos terminar la preparatoria en dos años). Después, se horroriza al ver su propia creación (¿cómo? ¿en serio?) y se enferma durante meses mientras su amigo, Henry Clerval, lo ayuda a recuperarse.
+
+Ya de vuelta en Ginebra, el hermano menor de Victor, William, es asesinado. La sirvienta de la familia Frankenstein, Justine, es acusada de su muerte. Victor intuye, como por arte de magia, que su monstruo es el verdadero asesino, pero creyendo que nadie creería la excusa de "fue mi monstruo", Victor teme siquiera sugerir la teoría aún después de que la pobre de Justine es ejecutada.
+
+Victor, afligido, hace un viaje a los Alpes suizos para relajarse un poco. De pura casualidad se encuentra con el monstruo, quien confiesa el crimen y cuenta a Victor la siguiente historia (si sigues el hilo, ahora nos encontramos en una historia dentro de una historia dentro de una historia):
+
+Cuando Frankenstein huyó, se dio cuenta de que estaba solo y de que era espantoso. Nadie lo aceptaba (pero cuando uno es una capirotada de partes humanas, qué se le va a hacer), excepto un viejo ciego. Tenía la esperanza de que la familia de aldeanos del ciego le mostrara compasión, pero incluso ellos lo echaron. Cuando se cruzó con William, mató al muchacho por venganza. En otras palabras, está furioso porque su creador lo creó para estar solo y pasarla mal, así que le pidió que le hiciera el favor de hacerle una compañera.
+
+A tanta insistencia, Victor accede. Deja a Henry en Escocia y se va a trabajar a una de las islas de Orkneys. Pero justo antes de terminar, destruye al segundo monstruo: teme que entre los dos destruyan a la humanidad en lugar de amarse sin hacer daño. El monstruo lo ve hacerlo y jura vengarse... otra vez. Cuando Victor llega a una orilla entre irlandeses, ellos lo acusan de asesinar a Henry, que ha sido encontrado muerto. Es absuelto, pero no antes de enfermar de nuevo durante largo tiempo.
+
+Victor vuelve a Ginebra y se prepara para casarse con Elizabeth, pero está un poco preocupado: el monstruo juró que estaría con él en su noche de bodas. ¡Diablos! Victor cree que el monstruo lo está amenazando, pero la noche en la que él y Elizabeth se casan, el monstruo mata a la novia. Esto hace que el padre de Victor fallezca de tristeza (acaba de perder a su nuera y a su hija), así que el monstruo mata dos pájaros de un tiro, por así decirlo.
+
+Solo y decidido a vengarse, Victor persigue al monstruo por todo terreno imaginable hasta que queda harapiento y cerca de la muerte. (De hecho, en realidad ya no sabemos quién es quién, excepto porque el monstruo es más alto y más feo). Y ahora volvemos al presente: encuentra el barco de Walton, cuenta su historia y muere.
+
+¿Ahí se acaba todo? Pues no. Walton descubre al monstruo llorando sobre el cuerpo de Victor. No estamos seguros de si llora porque está triste o porque, como dice, ya no tiene razón para vivir. De cualquier forma, se va al Ártico a morir. Solo. Cierto, no es un final a lo Hollywood.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
