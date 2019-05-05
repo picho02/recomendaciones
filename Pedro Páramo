@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina18</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Pedro Páramo</h1>
+  <p>Juan Rulfo</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/pedro.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Pedro Páramo es una de las obras maestras de la literatura hispanoamericana. La novela cuenta cómo el protagonista, Juan Preciado, va en busca de su padre, Pedro Páramo, hasta el pueblo mexicano de Comala, un lugar vacio, misterioso, sin vida. Allí, el joven descubrirá que toda la gente del pueblo se llama Páramo, que muchos de ellos son sus propios hermanos, y que Pedro Páramo está muerto. Estamos, pues, ante una novela misteriosa y fantástica cuya atmósfera envuelve al lector y los transporta a un territorio mágico de sorprendentes ramificaciones.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
