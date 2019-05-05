@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina20</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>A sangre fría</h1>
+  <p>Truman Capote</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/sangrefria.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>El 15 de noviembre de 1959, en un pueblecito de Kansas, los cuatro miembros de la familia Clutter fueron salvajemente asesinados en su casa. Los crímenes eran, aparentemente, inmotivados, y no se encontraron claves que permitieran identificar a los asesinos.
+
+Cinco años, cuatro meses y veintinueve días más tarde, el 14 de abril de 1965, Dick Hickcock y Perry Smith fueron ahorcados como culpables de las muertes en la penitenciaría del estado de Kansas.
+
+A partir de estos hechos, y tras realizar largas y minuciosas investigaciones con los protagonistas reales de la historia, Truman Capote dio un vuelco a su carrera de narrador y escribió A sangre fría, la novela que le consagró definitivamente como uno de los grandes de la literatura norteamericana del siglo XX.
+
+Capote sigue paso a paso la vida del pequeño pueblecito, esboza retratos de los que serían víctimas de una muerte tan espantosa como insospechada, acompaña a la policía en las pesquisas que condujeron al descubrimiento y detención de Hickcock y Smith y, sobre todo, se concentra en los dos criminales psicópatas hasta construir dos personajes perfectamente perfilados, a los que el lector llegará a conocer íntimamente.
+
+Al yuxtaponer las vidas y el sistema de valores de los Clutter con los de los asesinos, Capote nos brinda su visión de la doblez de la vida norteamericana: «El caso Clutter fue, seguramente, el primero de los numerosos crímenes horrorosos, aquellos asesinatos masivos de los años 60 que acompañaron a los asesinatos políticos... Quizá por primera vez, Capote percibió cómo una sociedad se definía a sí misma en relación a sus crímenes, a su capacidad para asesinar» (Frederick R. Karl).
+
+A sangre fría, que fue bautizada por el mismo Capote, pionera y provocativamente como una «non fiction novel», es un libro estremecedor que, desde la fecha misma de su publicación, se convirtió en un clásico.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
