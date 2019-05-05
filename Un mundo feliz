@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina10</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Un mundo feliz</h1>
+  <p>Aldous Huxley</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/feliz.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Un mundo feliz describe un mundo futuristo, utópico, altamente regulado y altamente tecnológico donde los protagonistas Bernard Marx y Lenina (alusión a Karl Marx y Lenin) visitan la ‘reserva salvaje’, cuyos habitantes son considerados retrógrados, donde conocen a John quién a pesar de crecer entre los indios fue concebido por ciudadanos del ‘Estado mundial’ o ‘Worldstate’, por lo que sabe leer y escribir.
+
+Los protagonistas deciden llevar a John, el salvaje, al ‘Estado mundial’ donde comienzan a surgir las comparaciones y a desenmascararse los puntos negativos de una sociedad aparentemente perfecta y feliz.
+
+Aldous Huxley describe en Un mundo feliz de 600 años en el futuro donde el desarrollo compulsivo de la eficiencia y la estabilidad junto con los avances tecnológicos crean una “benéfica tiranía de la Utopía”.
+
+Un mundo feliz de Aldous Huxley es una de las distopías más famosas de la historia junto con la obra 1984 de George Orwell.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
