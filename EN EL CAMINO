@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina3</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>EN EL CAMINO</h1>
+  <p>JACK KEROUAC</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://imagessl0.casadellibro.com/a/l/t5/40/9788433920140.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>El Sal Paradise de todas las ediciones conocidas de esta novela mítica es aquí, al fin, Kerouac. Y también Cassady, Ginsberg y Burroughs aparecen con sus verdaderos nombres. Con la publicación del rollo original, la gesta viajera y existencial de En la carretera se vuelve autobiográfica de pleno derecho y a plena luz del día, sin censura alguna. Y el relato adquiere toda su potencia narrativa. El lector tiene en sus manos una suerte de manifiesto de la beat generation. Seguimos a Kerouac y a toda la cáfila que desfila por estas páginas en toda su desnudez y penuria. Precursores del movimiento hippy y la contracultura de finales de los años sesenta, los personajes de esta novela pululan sin rumbo por Norteamérica. La sed vital insatisfecha, la búsqueda de horizontes de sentido, de dicha y de conocimiento y los atisbos místicos se estrellan contra una realidad inhóspita y desesperanzada. Un vívido compendio de los grandes temas, y al tiempo una apasionante aventura humana y una metáfora de la existencia. «El rollo original de On the Road es una de las más veneradas y enigmáticas reliquias de la literatura moderna... Un texto fascinante» (James Campbell, The Times Literary Supplement).
+	 </p>
+  </div>
+</div>
+</body>
+</html>
