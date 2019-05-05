@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina15</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>La montaña mágica</h1>
+  <p>Thomas Mann</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://static.abebookscdn.com/cdn/es/imagenes/100-mejores-libros/montana.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>La acción de esta novela transcurre en un sanatorio de tuberculosos en Zauberberg, que recientemente ha sido noticia por su cierre definitivo, donde coinciden dos primos de caracteres muy distintos. Más que en los sucesos (el conocimiento con Clavdia Chauchat o con una pareja de peculiares y enfrentados pensadores, los pequeños conflictos generados por la convivencia entre personajes de muy distinta procedencia, el goteo constante de fallecimientos, etc.), el interés de la novela reside en la perfecta reproducción de la vida interior, afectiva e intelectual, de la amplia galería de personajes que despliega Mann ante los ojos del lector, todos ellos perfectamente individualizados e interesantes por sí mismos. A partir de ahí, las reflexiones sobre temas muy diversos que van desde la política hasta la estética, pasando por la naturaleza del tiempo, aportan una visión panorámica de la Europa de la época, con una profundidad realmente extraordinaria en la literatura de todos los tiempos.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
