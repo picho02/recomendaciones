@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>pagina5</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Dracula</h1>
+  <p>Bram Stoker</p> 
+</div>
+  
+<div class="container">
+  <center><img src="https://images-na.ssl-images-amazon.com/images/I/51e0iXPkYTL._SX358_BO1,204,203,200_.jpg" class="img-thumbnail" alt="Cinque Terre" width="304" height="236"></center>        
+  <div class="row">
+	 <h3>Resumen</h3>
+	 <p>Jonathan Harker viaja a Transilvania para cerrar un negocio inmobiliario con un misterioso conde que acaba de comprar varias propiedades en Londres. Después de un viaje preñado de ominosas señales, Harker es recogido en el Paso de Borgo por un siniestro carruaje que le lleva, acunado por el canto de los lobos, a un castillo en ruinas.
+Tal es el inquietante principio de una novela magistral que alumbró uno de los mitos más populares y poderosos de todos los tiempos: Drácula. La fuerza del personaje —del que el cine se adueñó hasta la saciedad— ha eclipsado a lo largo de los años la calidad, la originalidad y la rareza de la obra de Bram Stoker, sin duda una de las últimas y más estremecedoras aportaciones a la literatura gótica anglosajona.
+	 </p>
+  </div>
+</div>
+</body>
+</html>
